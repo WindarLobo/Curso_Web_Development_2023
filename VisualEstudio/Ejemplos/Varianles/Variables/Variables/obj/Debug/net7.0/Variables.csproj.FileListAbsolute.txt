@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\bin\Debug\net7.0\Variables.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\bin\Debug\net7.0\Variables.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\bin\Debug\net7.0\Variables.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\bin\Debug\net7.0\Variables.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\bin\Debug\net7.0\Variables.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\Variables.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\Variables.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\Variables.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\Variables.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\refint\Variables.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\Variables.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\Variables.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\Variables\obj\Debug\net7.0\ref\Variables.dll

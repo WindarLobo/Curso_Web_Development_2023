@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\bin\Debug\net7.0\CursoCSharp_7_do.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\bin\Debug\net7.0\CursoCSharp_7_do.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\bin\Debug\net7.0\CursoCSharp_7_do.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\bin\Debug\net7.0\CursoCSharp_7_do.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\bin\Debug\net7.0\CursoCSharp_7_do.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\CursoCSharp_7_do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\CursoCSharp_7_do.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\CursoCSharp_7_do.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\CursoCSharp_7_do.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\CursoCSharp_7_do.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\refint\CursoCSharp_7_do.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\CursoCSharp_7_do.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\CursoCSharp_7_do.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_7_do\obj\Debug\net7.0\ref\CursoCSharp_7_do.dll

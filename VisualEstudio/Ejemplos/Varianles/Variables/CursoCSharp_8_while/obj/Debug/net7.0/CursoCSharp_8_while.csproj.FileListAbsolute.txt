@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\bin\Debug\net7.0\CursoCSharp_8_while.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\bin\Debug\net7.0\CursoCSharp_8_while.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\bin\Debug\net7.0\CursoCSharp_8_while.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\bin\Debug\net7.0\CursoCSharp_8_while.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\bin\Debug\net7.0\CursoCSharp_8_while.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\CursoCSharp_8_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\CursoCSharp_8_while.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\CursoCSharp_8_while.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\CursoCSharp_8_while.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\CursoCSharp_8_while.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\refint\CursoCSharp_8_while.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\CursoCSharp_8_while.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\CursoCSharp_8_while.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_8_while\obj\Debug\net7.0\ref\CursoCSharp_8_while.dll

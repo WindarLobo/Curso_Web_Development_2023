@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\bin\Debug\net7.0\EjercicioCuatro.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\bin\Debug\net7.0\EjercicioCuatro.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\bin\Debug\net7.0\EjercicioCuatro.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\bin\Debug\net7.0\EjercicioCuatro.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\bin\Debug\net7.0\EjercicioCuatro.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\EjercicioCuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\EjercicioCuatro.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\EjercicioCuatro.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\EjercicioCuatro.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\EjercicioCuatro.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\refint\EjercicioCuatro.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\EjercicioCuatro.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\EjercicioCuatro.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosCuatro\EjercicioCuatro\EjercicioCuatro\obj\Debug\net7.0\ref\EjercicioCuatro.dll

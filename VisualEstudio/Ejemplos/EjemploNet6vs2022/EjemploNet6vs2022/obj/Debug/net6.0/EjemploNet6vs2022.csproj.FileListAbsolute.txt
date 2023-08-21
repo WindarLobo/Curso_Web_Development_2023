@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\bin\Debug\net6.0\EjemploNet6vs2022.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\bin\Debug\net6.0\EjemploNet6vs2022.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\bin\Debug\net6.0\EjemploNet6vs2022.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\bin\Debug\net6.0\EjemploNet6vs2022.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\bin\Debug\net6.0\EjemploNet6vs2022.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\EjemploNet6vs2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\EjemploNet6vs2022.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\EjemploNet6vs2022.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\EjemploNet6vs2022.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\EjemploNet6vs2022.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\refint\EjemploNet6vs2022.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\EjemploNet6vs2022.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\EjemploNet6vs2022.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\EjemploNet6vs2022\EjemploNet6vs2022\obj\Debug\net6.0\ref\EjemploNet6vs2022.dll

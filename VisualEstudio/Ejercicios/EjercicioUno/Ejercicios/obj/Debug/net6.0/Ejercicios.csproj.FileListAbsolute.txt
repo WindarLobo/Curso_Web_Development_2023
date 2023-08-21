@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\refint\Ejercicios.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\BoletinUno\Ejercicios\Ejercicios\obj\Debug\net6.0\ref\Ejercicios.dll

@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\bin\Debug\net7.0\CursoCSharp_4_Contantes.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\bin\Debug\net7.0\CursoCSharp_4_Contantes.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\bin\Debug\net7.0\CursoCSharp_4_Contantes.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\bin\Debug\net7.0\CursoCSharp_4_Contantes.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\bin\Debug\net7.0\CursoCSharp_4_Contantes.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\CursoCSharp_4_Contantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\CursoCSharp_4_Contantes.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\CursoCSharp_4_Contantes.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\CursoCSharp_4_Contantes.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\CursoCSharp_4_Contantes.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\refint\CursoCSharp_4_Contantes.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\CursoCSharp_4_Contantes.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\CursoCSharp_4_Contantes.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CurCSarp_4_Contantes\obj\Debug\net7.0\ref\CursoCSharp_4_Contantes.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CursoCSharp_4_Contantes/1.0.0": {
+        "runtime": {
+          "CursoCSharp_4_Contantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp_4_Contantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

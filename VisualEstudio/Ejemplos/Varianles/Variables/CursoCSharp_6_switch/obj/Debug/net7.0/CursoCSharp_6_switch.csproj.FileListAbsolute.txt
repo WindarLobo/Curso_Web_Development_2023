@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\bin\Debug\net7.0\CursoCSharp_6_switch.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\bin\Debug\net7.0\CursoCSharp_6_switch.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\bin\Debug\net7.0\CursoCSharp_6_switch.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\bin\Debug\net7.0\CursoCSharp_6_switch.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\bin\Debug\net7.0\CursoCSharp_6_switch.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\CursoCSharp_6_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\CursoCSharp_6_switch.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\CursoCSharp_6_switch.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\CursoCSharp_6_switch.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\CursoCSharp_6_switch.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\refint\CursoCSharp_6_switch.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\CursoCSharp_6_switch.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\CursoCSharp_6_switch.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_6_switch\obj\Debug\net7.0\ref\CursoCSharp_6_switch.dll

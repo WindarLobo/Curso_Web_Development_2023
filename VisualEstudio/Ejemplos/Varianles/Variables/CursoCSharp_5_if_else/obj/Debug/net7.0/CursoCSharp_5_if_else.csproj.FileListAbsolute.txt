@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\bin\Debug\net7.0\CursoCSharp_5_if_else.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\bin\Debug\net7.0\CursoCSharp_5_if_else.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\bin\Debug\net7.0\CursoCSharp_5_if_else.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\bin\Debug\net7.0\CursoCSharp_5_if_else.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\bin\Debug\net7.0\CursoCSharp_5_if_else.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\CursoCSharp_5_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\CursoCSharp_5_if_else.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\CursoCSharp_5_if_else.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\CursoCSharp_5_if_else.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\CursoCSharp_5_if_else.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\refint\CursoCSharp_5_if_else.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\CursoCSharp_5_if_else.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\CursoCSharp_5_if_else.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_5_if_else\obj\Debug\net7.0\ref\CursoCSharp_5_if_else.dll

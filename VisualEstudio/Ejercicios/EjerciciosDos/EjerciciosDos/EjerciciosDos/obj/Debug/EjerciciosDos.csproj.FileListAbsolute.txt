@@ -1,0 +1,7 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosDos\EjerciciosDos\EjerciciosDos\bin\Debug\EjerciciosDos.exe.config
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosDos\EjerciciosDos\EjerciciosDos\bin\Debug\EjerciciosDos.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosDos\EjerciciosDos\EjerciciosDos\bin\Debug\EjerciciosDos.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosDos\EjerciciosDos\EjerciciosDos\obj\Debug\EjerciciosDos.csproj.AssemblyReference.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosDos\EjerciciosDos\EjerciciosDos\obj\Debug\EjerciciosDos.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosDos\EjerciciosDos\EjerciciosDos\obj\Debug\EjerciciosDos.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejercicios\EjerciciosDos\EjerciciosDos\EjerciciosDos\obj\Debug\EjerciciosDos.pdb

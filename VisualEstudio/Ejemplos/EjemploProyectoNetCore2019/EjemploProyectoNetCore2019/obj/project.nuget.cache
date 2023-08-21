@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Py905sWYZputOp40VFIB37RIaryXxb7oa6CPlTpvL6MNBbbyHerlNvEpn1yAOewmuGUl0huv2cDxY1WYWT7hGg==",
+  "success": true,
+  "projectFilePath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\EjemploProyectoNetCore2019\\EjemploProyectoNetCore2019\\EjemploProyectoNetCore2019.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
