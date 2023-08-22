@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\bin\Debug\net7.0\CursoCSharp_12_arrays.exe
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\bin\Debug\net7.0\CursoCSharp_12_arrays.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\bin\Debug\net7.0\CursoCSharp_12_arrays.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\bin\Debug\net7.0\CursoCSharp_12_arrays.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\bin\Debug\net7.0\CursoCSharp_12_arrays.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\CursoCSharp_12_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\CursoCSharp_12_arrays.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\CursoCSharp_12_arrays.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\CursoCSharp_12_arrays.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\CursoCSharp_12_arrays.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\refint\CursoCSharp_12_arrays.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\CursoCSharp_12_arrays.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\CursoCSharp_12_arrays.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Variables\Variables\CursoCSharp_12_arrays\obj\Debug\net7.0\ref\CursoCSharp_12_arrays.dll

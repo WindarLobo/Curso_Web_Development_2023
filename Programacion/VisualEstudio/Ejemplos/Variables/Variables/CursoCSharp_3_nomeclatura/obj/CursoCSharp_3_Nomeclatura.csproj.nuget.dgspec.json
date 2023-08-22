@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_3_nomeclatura\\CursoCSharp_3_Nomeclatura.csproj": {}
+    "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_3_nomeclatura\\CursoCSharp_3_Nomeclatura.csproj": {}
   },
   "projects": {
-    "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_3_nomeclatura\\CursoCSharp_3_Nomeclatura.csproj": {
+    "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_3_nomeclatura\\CursoCSharp_3_Nomeclatura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_3_nomeclatura\\CursoCSharp_3_Nomeclatura.csproj",
+        "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_3_nomeclatura\\CursoCSharp_3_Nomeclatura.csproj",
         "projectName": "CursoCSharp_3_Nomeclatura",
-        "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_3_nomeclatura\\CursoCSharp_3_Nomeclatura.csproj",
+        "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_3_nomeclatura\\CursoCSharp_3_Nomeclatura.csproj",
         "packagesPath": "C:\\Users\\Windar\\.nuget\\packages\\",
-        "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_3_nomeclatura\\obj\\",
+        "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_3_nomeclatura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_7_do\\CursoCSharp_7_do.csproj",
+      "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_7_do\\CursoCSharp_7_do.csproj",
       "projectName": "CursoCSharp_7_do",
-      "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_7_do\\CursoCSharp_7_do.csproj",
+      "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_7_do\\CursoCSharp_7_do.csproj",
       "packagesPath": "C:\\Users\\Windar\\.nuget\\packages\\",
-      "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_7_do\\obj\\",
+      "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_7_do\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

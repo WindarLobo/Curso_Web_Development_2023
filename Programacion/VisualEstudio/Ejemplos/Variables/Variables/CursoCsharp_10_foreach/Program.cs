@@ -1,4 +1,6 @@
-﻿namespace CursoCsharp_10_foreach
+﻿using static System.Console;
+namespace CursoCsharp_10_foreach
+    
 {
     internal class Program
     {
@@ -31,7 +33,7 @@
 
             foreach (var persona in listaDePersonas)
             {
-                Console.WriteLine(persona.name+ " "+ persona.lastname + " tiene " + persona.edad + " años");
+                WriteLine(persona.name+ " "+ persona.lastname + " tiene " + persona.edad + " años");
 
             }
 

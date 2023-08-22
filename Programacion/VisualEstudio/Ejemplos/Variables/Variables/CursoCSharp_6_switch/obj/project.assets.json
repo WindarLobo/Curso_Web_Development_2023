@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_6_switch\\CursoCSharp_6_switch.csproj",
+      "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_6_switch\\CursoCSharp_6_switch.csproj",
       "projectName": "CursoCSharp_6_switch",
-      "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_6_switch\\CursoCSharp_6_switch.csproj",
+      "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_6_switch\\CursoCSharp_6_switch.csproj",
       "packagesPath": "C:\\Users\\Windar\\.nuget\\packages\\",
-      "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\Ejemplos\\Varianles\\Variables\\CursoCSharp_6_switch\\obj\\",
+      "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\Variables\\Variables\\CursoCSharp_6_switch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
