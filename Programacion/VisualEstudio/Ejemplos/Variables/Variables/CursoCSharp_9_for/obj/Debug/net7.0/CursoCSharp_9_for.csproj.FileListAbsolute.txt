@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\bin\Debug\net7.0\CursoCSharp_9_for.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\bin\Debug\net7.0\CursoCSharp_9_for.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\bin\Debug\net7.0\CursoCSharp_9_for.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\bin\Debug\net7.0\CursoCSharp_9_for.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\bin\Debug\net7.0\CursoCSharp_9_for.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\CursoCSharp_9_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\CursoCSharp_9_for.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\CursoCSharp_9_for.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\CursoCSharp_9_for.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\CursoCSharp_9_for.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\refint\CursoCSharp_9_for.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\CursoCSharp_9_for.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\CursoCSharp_9_for.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCSharp_9_for\obj\Debug\net7.0\ref\CursoCSharp_9_for.dll

@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\bin\Debug\net7.0\CursoCsharp_10_foreach.exe
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\bin\Debug\net7.0\CursoCsharp_10_foreach.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\bin\Debug\net7.0\CursoCsharp_10_foreach.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\bin\Debug\net7.0\CursoCsharp_10_foreach.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\bin\Debug\net7.0\CursoCsharp_10_foreach.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\CursoCsharp_10_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\CursoCsharp_10_foreach.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\CursoCsharp_10_foreach.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\CursoCsharp_10_foreach.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\CursoCsharp_10_foreach.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\refint\CursoCsharp_10_foreach.dll
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\CursoCsharp_10_foreach.pdb
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\CursoCsharp_10_foreach.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\VisualEstudio\Ejemplos\Varianles\Variables\CursoCsharp_10_foreach\obj\Debug\net7.0\ref\CursoCsharp_10_foreach.dll
