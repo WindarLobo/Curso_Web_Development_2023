@@ -1,5 +1,5 @@
 ﻿using static System.Console;
-namespace Ejercicio_3;
+namespace Ejercicio_tres;
 
 internal class Program
 {
