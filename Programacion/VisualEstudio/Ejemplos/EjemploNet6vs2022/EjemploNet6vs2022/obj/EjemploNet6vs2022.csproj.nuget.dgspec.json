@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\EjemploNet6vs2022\\EjemploNet6vs2022\\EjemploNet6vs2022.csproj": {}
+    "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\EjemploNet6vs2022\\EjemploNet6vs2022\\EjemploNet6vs2022.csproj": {}
   },
   "projects": {
-    "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\EjemploNet6vs2022\\EjemploNet6vs2022\\EjemploNet6vs2022.csproj": {
+    "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\EjemploNet6vs2022\\EjemploNet6vs2022\\EjemploNet6vs2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\EjemploNet6vs2022\\EjemploNet6vs2022\\EjemploNet6vs2022.csproj",
+        "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\EjemploNet6vs2022\\EjemploNet6vs2022\\EjemploNet6vs2022.csproj",
         "projectName": "EjemploNet6vs2022",
-        "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\EjemploNet6vs2022\\EjemploNet6vs2022\\EjemploNet6vs2022.csproj",
+        "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\EjemploNet6vs2022\\EjemploNet6vs2022\\EjemploNet6vs2022.csproj",
         "packagesPath": "C:\\Users\\Windar\\.nuget\\packages\\",
-        "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\VisualEstudio\\EjemploNet6vs2022\\EjemploNet6vs2022\\obj\\",
+        "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejemplos\\EjemploNet6vs2022\\EjemploNet6vs2022\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
