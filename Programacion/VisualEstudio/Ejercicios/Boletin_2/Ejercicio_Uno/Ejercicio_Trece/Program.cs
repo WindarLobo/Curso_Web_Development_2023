@@ -6,24 +6,32 @@ internal class Program
     static void Main(string[] args)
     {
         /* Comprobar si un numero introducido por consola es primo*/
-
-        WriteLine("Introduce un numero");
-
-        int numeroIntroducido = Convert.ToInt32(Console.ReadLine());
-
+        do
         {
+            WriteLine("Introduce un numero");
+            string usuario = ReadLine();
 
-            if (EsPrimo(numeroIntroducido))
+            if (int.TryParse(usuario, out int numeroIntroducido))
             {
-                WriteLine("Es primo");
+
+                if (EsPrimo(numeroIntroducido))
+                {
+                    WriteLine("Es primo");
+                   
+                }
+                else
+                {
+                    WriteLine("No es un número primo");
+
+                }
+                break;
             }
+          
             else
             {
-                WriteLine("No es un número primo");
-             
+                WriteLine("Debes de introducir un numero \n");
             }
-
-        }
+        }while(true);
 
         static bool EsPrimo(int numero)
         {

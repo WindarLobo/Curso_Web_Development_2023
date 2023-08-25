@@ -8,19 +8,26 @@ internal class Program
         /*Crear un programa calcule cuantas cifras tiene un número entero positivo
          (pista: se puede hacer dividiendo varias veces entre 10).*/
 
-        int numero, contador;
-        contador = 0;
 
-        WriteLine("Introduce un número entero positivo: ");
-        numero = Convert.ToInt32(ReadLine());
+       
+        do {
 
-        while (numero > 0)
-        {
-            numero /= 10;
+            WriteLine("Introduce un número entero positivo: ");
 
-            contador++;
-        }
-        WriteLine("El número de digitos es {0}.", contador);
+            string usuario = ReadLine();
+
+        if (int.TryParse(usuario, out int numero)) 
+              
+                if (numero > 0)
+                 {
+
+                WriteLine("\nEl número de digitos es {0}.", usuario.Length);
+
+                    break;
+
+                }
+           
+        } while(true);
 
     }
 }
