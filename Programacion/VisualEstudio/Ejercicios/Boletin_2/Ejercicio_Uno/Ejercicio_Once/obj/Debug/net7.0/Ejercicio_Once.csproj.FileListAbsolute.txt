@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\bin\Debug\net7.0\Ejercicio_Once.exe
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\bin\Debug\net7.0\Ejercicio_Once.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\bin\Debug\net7.0\Ejercicio_Once.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\bin\Debug\net7.0\Ejercicio_Once.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\bin\Debug\net7.0\Ejercicio_Once.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\Ejercicio_Once.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\Ejercicio_Once.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\Ejercicio_Once.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\Ejercicio_Once.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\Ejercicio_Once.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\refint\Ejercicio_Once.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\Ejercicio_Once.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\Ejercicio_Once.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicio_Uno\Ejercicio_Once\obj\Debug\net7.0\ref\Ejercicio_Once.dll
