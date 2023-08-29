@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ejercicio_Nueve
+build_property.ProjectDir = C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_2\Ejercicios\Ejercicio_Uno\Ejercicio_Nueve\

@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\bin\Debug\net7.0\CursoCSharp_2_Funciones.exe
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\bin\Debug\net7.0\CursoCSharp_2_Funciones.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\bin\Debug\net7.0\CursoCSharp_2_Funciones.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\bin\Debug\net7.0\CursoCSharp_2_Funciones.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\bin\Debug\net7.0\CursoCSharp_2_Funciones.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\CursoCSharp_2_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\CursoCSharp_2_Funciones.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\CursoCSharp_2_Funciones.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\CursoCSharp_2_Funciones.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\CursoCSharp_2_Funciones.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\refint\CursoCSharp_2_Funciones.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\CursoCSharp_2_Funciones.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\CursoCSharp_2_Funciones.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Metodos\CursoCSharp_1_Metodos\CursoCSharp_2_Funciones\obj\Debug\net7.0\ref\CursoCSharp_2_Funciones.dll
