@@ -25,11 +25,11 @@ internal class Program
             {
                 case "dolar":
 
-                    WriteLine("El toal de dolar a euro es : " + ComversorDeCambio());
+                    WriteLine("El toal de dolar a euro es : " + ConversorDeCambio());
                     break;
 
                 case "euro":
-                    WriteLine("El tipo de cambio de euro a dolar es :  " + ComversorDeCambio());
+                    WriteLine("El tipo de cambio de euro a dolar es :  " + ConversorDeCambio());
                     break;
 
                 default:
@@ -37,7 +37,7 @@ internal class Program
                     break;
             }
 
-            double ComversorDeCambio()
+            double ConversorDeCambio()
 
             {
                 double cantidad = 0;
