@@ -4,10 +4,10 @@ namespace Ejercicio_Seis_;
 internal class Program
 {
      
-    static int numero;
-    static int cantidadNumeros = 0;
-    static int numeroMasAlto = int.MinValue;
-    static int numeroMasBajo = int.MaxValue;
+   private static int numero;
+    private static int cantidadNumeros = 0;
+    private  static int numeroMasAlto = int.MinValue;
+    private static int numeroMasBajo = int.MaxValue;
 
     static int numeroCero;
 

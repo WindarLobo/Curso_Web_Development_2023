@@ -23,7 +23,7 @@ internal class Program
                 }
                 else if (EsNumero(usuarioIntroducido))
                 {
-                    WriteLine("Es un nuemro");
+                    WriteLine("Es un numero");
                     break;
                 }
                 else if (EsConsonante(usuarioIntroducido))
@@ -50,17 +50,14 @@ internal class Program
     }
     private static bool EsNumero(char esNumero)
     {
-        if (Char.IsDigit(esNumero))
-        {
-            return true;
-
-        }
-        return false;
+       
+            return Char.IsDigit(esNumero);
+      
     }
 
     private static bool EsConsonante(char esConsonante)
     {
-        char[] consonante = { 'a', 'b', 'c', 'd', 'e', 'f', 'G', 'H', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z' };
+        char[] consonante = { 'b', 'c', 'd', 'f', 'G', 'H', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z' };
         char charLowerCase = Char.ToLower(esConsonante);
         return Array.Exists(consonante, consonante => consonante == charLowerCase);
     }

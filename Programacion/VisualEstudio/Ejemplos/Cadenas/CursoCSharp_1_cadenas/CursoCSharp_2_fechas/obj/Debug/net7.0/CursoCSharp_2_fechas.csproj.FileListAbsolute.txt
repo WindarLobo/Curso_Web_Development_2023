@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\bin\Debug\net7.0\CursoCSharp_2_fechas.exe
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\bin\Debug\net7.0\CursoCSharp_2_fechas.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\bin\Debug\net7.0\CursoCSharp_2_fechas.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\bin\Debug\net7.0\CursoCSharp_2_fechas.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\bin\Debug\net7.0\CursoCSharp_2_fechas.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\CursoCSharp_2_fechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\CursoCSharp_2_fechas.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\CursoCSharp_2_fechas.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\CursoCSharp_2_fechas.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\CursoCSharp_2_fechas.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\refint\CursoCSharp_2_fechas.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\CursoCSharp_2_fechas.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\CursoCSharp_2_fechas.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Cadenas\CursoCSharp_1_cadenas\CursoCSharp_2_fechas\obj\Debug\net7.0\ref\CursoCSharp_2_fechas.dll

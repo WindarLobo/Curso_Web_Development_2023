@@ -18,6 +18,7 @@ internal class Program
         try
         {
             contadorDeBilletesYMonedas();
+
             WriteLine("Billete de 500 : " + cantidad500);
             WriteLine("Billete de 200 : " + cantidad200);
             WriteLine("Billete de 100 : " + cantidad100);
@@ -31,7 +32,7 @@ internal class Program
         }
         catch (Exception ex)
         {
-            WriteLine(ex.Message);
+            WriteLine(ex.GetType);
         }
 
 
