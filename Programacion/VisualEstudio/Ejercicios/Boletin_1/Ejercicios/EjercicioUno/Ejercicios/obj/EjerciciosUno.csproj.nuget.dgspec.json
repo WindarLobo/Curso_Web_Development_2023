@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\EjercicioUno\\Ejercicios\\EjerciciosUno.csproj": {}
+    "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\Ejercicios\\EjercicioUno\\Ejercicios\\EjerciciosUno.csproj": {}
   },
   "projects": {
-    "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\EjercicioUno\\Ejercicios\\EjerciciosUno.csproj": {
+    "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\Ejercicios\\EjercicioUno\\Ejercicios\\EjerciciosUno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\EjercicioUno\\Ejercicios\\EjerciciosUno.csproj",
+        "projectUniqueName": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\Ejercicios\\EjercicioUno\\Ejercicios\\EjerciciosUno.csproj",
         "projectName": "EjerciciosUno",
-        "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\EjercicioUno\\Ejercicios\\EjerciciosUno.csproj",
+        "projectPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\Ejercicios\\EjercicioUno\\Ejercicios\\EjerciciosUno.csproj",
         "packagesPath": "C:\\Users\\Windar\\.nuget\\packages\\",
-        "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\EjercicioUno\\Ejercicios\\obj\\",
+        "outputPath": "C:\\Datos Windar\\Curso_Web_Development_2023\\Programacion\\VisualEstudio\\Ejercicios\\Boletin_1\\Ejercicios\\EjercicioUno\\Ejercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

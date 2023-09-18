@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\bin\Debug\net7.0\Ejercicio_Tres_.exe
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\bin\Debug\net7.0\Ejercicio_Tres_.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\bin\Debug\net7.0\Ejercicio_Tres_.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\bin\Debug\net7.0\Ejercicio_Tres_.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\bin\Debug\net7.0\Ejercicio_Tres_.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\Ejercicio_Tres_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\Ejercicio_Tres_.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\Ejercicio_Tres_.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\Ejercicio_Tres_.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\Ejercicio_Tres_.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\refint\Ejercicio_Tres_.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\Ejercicio_Tres_.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\Ejercicio_Tres_.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejercicios\Boletin_4\Ejercicios\Ejercicio_Uno_\Ejercicio_Tres_\obj\Debug\net7.0\ref\Ejercicio_Tres_.dll

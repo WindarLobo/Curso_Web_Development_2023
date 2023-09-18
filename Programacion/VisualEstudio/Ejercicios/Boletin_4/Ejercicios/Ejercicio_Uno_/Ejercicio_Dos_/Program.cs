@@ -12,7 +12,7 @@ internal class Program
         string reversa = ReadLine();
 
 
-        Console.WriteLine($"Cadena al revés: {reversaPalabra(reversa)}");
+        WriteLine($"Cadena al revés: {reversaPalabra(reversa)}");
 
     }
 
