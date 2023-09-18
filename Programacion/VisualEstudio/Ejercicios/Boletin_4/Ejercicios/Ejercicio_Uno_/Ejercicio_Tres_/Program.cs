@@ -44,6 +44,10 @@ internal class Program
         removerPalabra(datos);
         extrayendoCadena(datos);
         palabraInvertida(datos);
+        ContarPalabras(datos);
+        terceraPalabra(datos);
+
+
     }
 
 
@@ -137,6 +141,32 @@ internal class Program
         Array.Reverse(charArray);
         WriteLine(charArray);
 
+    }
+    private static void ContarPalabras(string frase)
+    {
+        string[] palabras = frase.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+        // Retorna el número de palabras encontradas.
+
+        WriteLine($"Número de palabras en la frase: {palabras.Length}");
+
+    }
+    private static void terceraPalabra(string palabra)
+    {
+        string[] palabras = palabra.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+    
+
+        if (palabras.Length >= 3)
+        {
+            // Retorna la tercera palabra (índice 2, ya que los índices comienzan en 0)
+           WriteLine($"LA tercera palabra es : {palabras[2]}");
+        }
+        else
+        {
+          
+          WriteLine("La frase no tiene suficientes palabras.");
+        }
     }
 
 
