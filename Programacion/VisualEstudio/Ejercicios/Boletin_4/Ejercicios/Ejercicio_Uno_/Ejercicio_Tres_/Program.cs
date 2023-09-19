@@ -71,7 +71,7 @@ internal class Program
         }
 
         WriteLine($"La frase ingresada es:{frase}");
-        palabras = frase.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+     
         WriteLine($"\nNúmero de palabras:{palabras.Length}");
 
         // Mostrar las palabras individualmente

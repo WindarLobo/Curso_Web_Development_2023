@@ -11,7 +11,7 @@ internal class Program
 
         while (letra >= 'A')
         {
-            Console.WriteLine(letra);
+            WriteLine(letra);
             letra--;
         }
     }

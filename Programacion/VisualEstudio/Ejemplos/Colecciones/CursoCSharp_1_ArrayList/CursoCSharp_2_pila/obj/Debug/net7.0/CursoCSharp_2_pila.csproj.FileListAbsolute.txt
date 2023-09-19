@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\bin\Debug\net7.0\CursoCSharp_2_pila.exe
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\bin\Debug\net7.0\CursoCSharp_2_pila.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\bin\Debug\net7.0\CursoCSharp_2_pila.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\bin\Debug\net7.0\CursoCSharp_2_pila.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\bin\Debug\net7.0\CursoCSharp_2_pila.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\CursoCSharp_2_pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\CursoCSharp_2_pila.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\CursoCSharp_2_pila.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\CursoCSharp_2_pila.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\CursoCSharp_2_pila.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\refint\CursoCSharp_2_pila.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\CursoCSharp_2_pila.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\CursoCSharp_2_pila.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_2_pila\obj\Debug\net7.0\ref\CursoCSharp_2_pila.dll
