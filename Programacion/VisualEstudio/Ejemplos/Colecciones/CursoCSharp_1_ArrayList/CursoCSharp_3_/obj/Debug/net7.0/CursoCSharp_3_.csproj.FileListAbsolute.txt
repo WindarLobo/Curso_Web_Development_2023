@@ -1,0 +1,14 @@
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\bin\Debug\net7.0\CursoCSharp_3_.exe
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\bin\Debug\net7.0\CursoCSharp_3_.deps.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\bin\Debug\net7.0\CursoCSharp_3_.runtimeconfig.json
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\bin\Debug\net7.0\CursoCSharp_3_.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\bin\Debug\net7.0\CursoCSharp_3_.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\CursoCSharp_3_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\CursoCSharp_3_.AssemblyInfoInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\CursoCSharp_3_.AssemblyInfo.cs
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\CursoCSharp_3_.csproj.CoreCompileInputs.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\CursoCSharp_3_.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\refint\CursoCSharp_3_.dll
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\CursoCSharp_3_.pdb
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\CursoCSharp_3_.genruntimeconfig.cache
+C:\Datos Windar\Curso_Web_Development_2023\Programacion\VisualEstudio\Ejemplos\Colecciones\CursoCSharp_1_ArrayList\CursoCSharp_3_\obj\Debug\net7.0\ref\CursoCSharp_3_.dll
