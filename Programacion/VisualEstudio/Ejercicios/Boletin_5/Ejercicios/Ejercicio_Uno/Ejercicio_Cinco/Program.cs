@@ -48,7 +48,7 @@ internal class Program
             }
             else
             {
-                WriteLine("Error al introducir el elemento,debes de ingresar un numero entero");
+                WriteLine("Error al introducir el elemento,debes de ingresar un numero entero ");
             }
           
         } while (true);
