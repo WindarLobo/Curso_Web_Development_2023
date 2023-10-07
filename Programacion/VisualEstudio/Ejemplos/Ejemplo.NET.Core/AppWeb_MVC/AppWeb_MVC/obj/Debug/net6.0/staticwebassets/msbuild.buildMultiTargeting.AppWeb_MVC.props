@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppWeb_MVC.props" />
+</Project>

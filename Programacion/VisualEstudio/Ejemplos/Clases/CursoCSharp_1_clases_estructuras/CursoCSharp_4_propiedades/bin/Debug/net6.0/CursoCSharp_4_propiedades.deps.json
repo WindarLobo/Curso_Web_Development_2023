@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoCSharp_4_propiedades/1.0.0": {
+        "runtime": {
+          "CursoCSharp_4_propiedades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp_4_propiedades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,44 @@
+﻿@*
+   
+*@
+@{
+    ViewData["Title"] = "Contacto";
+}
+<style>
+   p{
+       color:grey;
+       font-size:1.5em;
+   }
+
+</style>
+
+<script>
+
+    function alerta() {
+        alert("Esta es la pagina de contacto");
+    }
+    function GetTime() {
+        var url = "@Url.Action("GetTime","Home")";
+
+        fetch(url)
+            .then(response => response.json())
+            .then(data=> {
+                var jdata = JSON.parse(data);
+                alert(jdata["time"]);
+
+    });
+    }
+
+</script>
+<h1>Pagina de contacto</h1>
+
+<div>
+    <p>
+        Esta pagina contiene los datos para poder contactarnos:<br/>
+        telefono: 5555555555555;<br />
+        correo: contacto@hotmail.com
+    </p><br/>
+
+    <button onclick="GetTime()">Obtener fecha</button>
+
+</div>
